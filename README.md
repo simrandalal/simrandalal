@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simran Dalal</h1>
 <h3 align="center">I’m a tech enthusiast passionate about problem-solving and writing clean, scalable code. I enjoy working with Java and Python, and I’m actively building my skills in data structures, algorithms, and web development. Always curious to learn new technologies and grow as a developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simrandalal&label=Profile%20views&color=0e75b6&style=flat" alt="simrandalal" /> </p>
-
 - 🌱 I’m currently learning **DSA, MERN**
 
 - 📫 How to reach me **simrandalal282@gmail.com**
